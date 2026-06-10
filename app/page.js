@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import Header from './header.js'
+import Header from '@/components/header.js'
 export default function Home() {
   return (
     <main>
